@@ -1,5 +1,10 @@
 # Simple Faucet Script
-Bitcoin Faucet integrated with banlist and VPN/Proxy Shield. It uses the service of Google reCaptcha (v2; box) and IPHub. Any claims will be saved in the account balance and can be withdrawn to ExpressCrypto, FaucetPay or directly using Block.io
+Dogecoin Faucet integrated with banlist and VPN/Proxy Shield. It uses the service of Google reCaptcha (v2; box) and IPHub. Any claims will be saved in the account balance and can be withdrawn to ExpressCrypto, FaucetPay or directly using Block.io
+
+# Fitur:
+1. Shortlink
+2. Ad Management
+3. Admin management
 
 # Mininum Requirements
 
@@ -18,6 +23,7 @@ Bitcoin Faucet integrated with banlist and VPN/Proxy Shield. It uses the service
 4. Change in includes/config.php the MySQL Connection and the website url (e.g. http://example.org/)
 
 5. Open http://yourdomain.de/admin.php and enter the following login datas:
+6. Edit shortlink in index.php
 
 Admin Username: admin
 
