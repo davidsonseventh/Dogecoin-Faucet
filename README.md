@@ -15,7 +15,7 @@ Bitcoin Faucet integrated with banlist and VPN/Proxy Shield. It uses the service
 
 3. Upload the sql.sql using PHPMyAdmin
 
-4. Change in includes/config.php the MySQL Connection and the website url (e.g. http://example.org/faucet)
+4. Change in includes/config.php the MySQL Connection and the website url (e.g. http://example.org/)
 
 5. Open http://yourdomain.de/admin.php and enter the following login datas:
 
@@ -27,7 +27,7 @@ Now you're on the admin site and change the configuration to run your faucet!
 
 # Demo
 
-A demo is avaible: http://salmen.website/Faucet/
+A demo is avaible: http://cryptoclick.xyz
 
 
 # Fee
